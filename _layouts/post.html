@@ -9,12 +9,20 @@ page_type: article
     <h1><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
   </div>
   <p class="top-apply large-4 hide-for-small columns">
+  {% if page.apply_url %}
+    <a href="{{page.apply_url}}" class="small button ">Apply Now</a>  
+  {% else %}
     <a href="#" data-reveal-id="application-modal" class="small button ">Apply Now</a>
+  {% endif %}
   </p>
 </div>
 
 {{ content }}
 
 <p class="apply-button">
-  <a href="#" data-reveal-id="application-modal" class="large button ">Apply Now</a>
+  {% if page.apply_url %}
+	  <a href="{{page.apply_url}}" class="large button ">Apply Now</a>
+  {% else %}
+	  <a href="#" data-reveal-id="application-modal" class="large button ">Apply Now</a>
+  {% endif %}	 
 </p>
