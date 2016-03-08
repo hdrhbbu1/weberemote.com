@@ -116,7 +116,7 @@ var d=document,w=window,e=w.getSelection,k=d.getSelection,x=d.selection,s=(e?e()
 			return d.toISOString()
 		}
 		
-		var API_NEW_POST = 'https://api.github.com/repos/{{ site.github.repo }}/contents/_posts/' ;
+		var API_NEW_POST = 'https://api.github.com/repos/{{ site.github.repo }}/contents/_drafts/' ;
 		$("#go").click(function() {
 			var user = $('#username').val() ;
 			var password = $('#password').val() ;
