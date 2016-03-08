@@ -5,7 +5,6 @@ company: MailPoet
 location: Anywhere
 type: Full-time
 logo: "https://dge9rmgqjs8m1.cloudfront.net/wwr_s3/logos/0001/3583/logo.gif/resized_logo.png?r=3"
-apply_url: "mailto:jobs@mailpoet.com" 
 ---
 
 {% comment %}
@@ -44,7 +43,7 @@ It would be really great if you have interest in:
 - Software security.
 - Devops (we use Ansible)
 
-How to apply
+### How to apply
 
 Please send us email to jobs at our domain name with:
 
