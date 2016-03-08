@@ -4,27 +4,27 @@ post: true
 page_type: article
 ---
 <div class="row">
-  <div class="large-8 small-12 columns">
-    <p class="supertitle">{{ page.type }} / {{ page.location }}</p>
-    <h1><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
-  </div>
-  <p class="top-apply large-4 hide-for-small columns">
-  {% if page.apply_url %}
-    <a href="{{page.apply_url}}" class="small button " target="_new">Apply Now</a>  
-  {% else %}
-    <a href="#" data-reveal-id="application-modal" class="small button ">Apply Now</a>
-  {% endif %}
-  </p>
+	<div class="large-8 small-12 columns">
+		<p class="supertitle">{{ page.type }}</p>
+		<h1><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }} <small>@ {{ page.company }}</small></a></h1>
+	</div>
+	<p class="top-apply large-4 hide-for-small columns">
+		{% if page.apply_url %}
+		<a href="{{page.apply_url}}" class="small button " target="_new">Apply Now</a>  
+		{% else %}
+		<a href="#" data-reveal-id="application-modal" class="small button ">Apply Now</a>
+		{% endif %}
+	</p>
 </div>
-
+	
 {{ content }}
-
+	
 <hr />
 
 <p class="apply-button">
-  {% if page.apply_url %}
-	  <a href="{{page.apply_url}}" class="large button " target="_new">Apply Now</a>
-  {% else %}
-	  <a href="#" data-reveal-id="application-modal" class="large button ">Apply Now</a>
-  {% endif %}	 
+	{% if page.apply_url %}
+	<a href="{{page.apply_url}}" class="large button " target="_new">Apply Now</a>
+	{% else %}
+	<a href="#" data-reveal-id="application-modal" class="large button ">Apply Now</a>
+	{% endif %}	 
 </p>
