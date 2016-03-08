@@ -7,11 +7,16 @@ $(document).ready(function() {
 		form.hide();
 		$('.spinner').show();
 
-		var values = form.find("input, textarea").each(function() {  $(this).val() == "" && $(this).remove(); }).serialize();
-		var values = unserialize( values );
-
-		var jobsRef = new Firebase("https://weberemote.firebaseio.com/");
-		jobsRef.push(values, function(error){
+		var values = {};
+		form.find("input, textarea").each(function() {
+			if( $(this).val() !== "" ){
+				var name = $(this).attr('name');
+				values[name] = $(this).val();
+			}
+		})
+		var jobsRef = new Firebase("https://weberemote.firebaseio.com/applicants/");
+		var jobRef = jobsRef.child( slugify(values.jobId) );
+		jobRef.push(values, function(error){
 			if( error ){
 		        $('#application-form').html('<div class="large-12 small-12 columns"><h2>Uh-oh, something went wrong!</h2><p>Looks like our API is down. Mind trying again in a few minutes?</p></div>');
 			}else{
@@ -19,28 +24,17 @@ $(document).ready(function() {
 			}
 		});
 	});
-
 	// Email signup thankyou
 	if(window.location.hash == "#thankyou") {
 		$("#mc_embed_signup").html("<h3 class='center'>Thanks for signing up!</h3>");
 	}
 
-	function unserialize(serializedString){
-		var str = decodeURI(serializedString); 
-		var pairs = str.split('&');
-		var obj = {}, p, idx;
-		for (var i=0, n=pairs.length; i < n; i++) {
-			p = pairs[i].split('=');
-			idx = p[0]; 
-			if (obj[idx] === undefined) {
-				obj[idx] = unescape(p[1]);
-			}else{
-				if (typeof obj[idx] == "string") {
-					obj[idx]=[obj[idx]];
-				}
-				obj[idx].push(unescape(p[1]));
-			}
-		}
-		return obj;
-	};
+	function slugify(text){
+		return text.toString().toLowerCase()
+		.replace(/\s+/g, '-')           // Replace spaces with -
+		.replace(/[^\w\-]+/g, '')       // Remove all non-word chars
+		.replace(/\-\-+/g, '-')         // Replace multiple - with single -
+		.replace(/^-+/, '')             // Trim - from start of text
+		.replace(/-+$/, '');            // Trim - from end of text
+	}
 });
