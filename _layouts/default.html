@@ -21,7 +21,7 @@
   <meta property="og:type" content="{% if page.page_type %}{{ page.page_type }}{% else %}website{% endif %}"/>
   <meta property="og:image" content="{{ site.url }}/img/logo.png"/>
   <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
-
+  <script src="https://cdn.firebase.com/js/client/2.4.1/firebase.js"></script>
   <script src="/js/vendor/jquery.js"></script>
   <script src="/js/vendor/custom.modernizr.js"></script>
 </head>
@@ -65,7 +65,7 @@
     </div>
   </footer>
 
-  {% if page.post %}
+  {% if page.layout == 'post' %}
     {% include application-form.html %}
   {% endif %}
 
