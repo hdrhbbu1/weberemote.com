@@ -30,7 +30,7 @@ title: Remote Jobs for hackers and other superheroes
 <ul class="listings no-bullet">
   {% for post in site.posts %}
     {% if post.filled != true %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a><span class="hide-for-small">{{ post.location }}</span></li>
+      <li><a href="{{ post.url }}">{{ post.title }}</a><span class="hide-for-small">{{ post.company }}</span></li>
     {% endif %}
   {% endfor %}
 </ul>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Driven JavaScript / Node.js Developer @ Clevertech"
+title: "Driven JavaScript / Node.js Developer"
 company: Clevertech
 location: Anywhere
 type: Full-time
