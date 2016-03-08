@@ -9,7 +9,7 @@
 title: We Be Remote
 email: weberemote@datamcfly.com
 description: > # this means to ignore newlines until "baseurl:"
-  Remote Jobs for Hackers &amp; other Superheros.
+  Remote Jobs for Hackers &amp; other Superheroes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://weberemote.com" # the base hostname & protocol for your site
 twitter_username: freekrai
