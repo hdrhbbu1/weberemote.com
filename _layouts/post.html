@@ -16,7 +16,13 @@ page_type: article
 		{% endif %}
 	</p>
 </div>
-	
+
+{% comment %}
+{% if page.logo %}
+<img src="{{ page.logo }}" />
+{% endif %}
+{% endcomment %}
+
 {{ content }}
 	
 <hr />
