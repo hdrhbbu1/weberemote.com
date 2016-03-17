@@ -22,7 +22,7 @@ paginate: 10
 permalink: pretty
 
 github:
-  repo: freekrai/weberemote
+  repo: freekrai/weberemote.com
   branch: gh-pages
 
 gems:
