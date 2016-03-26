@@ -49,4 +49,3 @@ Here’s how it works:
 - You focus on one client at a time; when you're finished with one, we provide another
 - We use the latest tools and streamline every workflow imaginable
 - Everyone on our team shares your culture, irrespective of where they are physically
-- Apply for this position
