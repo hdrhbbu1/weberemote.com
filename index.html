@@ -9,30 +9,30 @@ title: Remote Jobs for hackers and other superheroes
 
 <p>Want to know when a new job gets posted?  Enter your email below and we'll let you know.  Don't worry, we don't spam and you can unsubscribe whenever!</p>
 
-
-
 <!-- Begin MailChimp Signup Form -->
 <div class="row collapse well" id="mc_embed_signup">
-  <form data-abide action="http://weberemote.us13.list-manage2.com/subscribe/post?u=9975e5cd0c597a3c7ee67a540&id=d24c103e65" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" novalidate>
-    <div class="small-8 columns">
-      <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-      <small class="error">A valid email address is required.</small>
-    </div>
-    <div class="small-3 columns">
-      <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button small">
-    </div>
-  </form>
+	<form data-abide action="http://weberemote.us13.list-manage2.com/subscribe/post?u=9975e5cd0c597a3c7ee67a540&id=d24c103e65" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" novalidate>
+	<div class="small-8 columns">
+		<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+		<small class="error">A valid email address is required.</small>
+	</div>
+	<div class="small-3 columns">
+		<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button small">
+	</div>
+	</form>
 </div>
 <!--End mc_embed_signup-->
 <br />
 
 <h3>Open Positions</h3>
 <ul class="listings no-bullet">
-  {% for post in site.posts %}
-    {% if post.filled != true %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a><span class="hide-for-small">{{ post.company }}</span></li>
-    {% endif %}
-  {% endfor %}
+{% for post in site.posts %}
+	{% if post.filled != true %}
+		<li>
+			<a href="{{ post.url }}">{{ post.title }}</a><span class="hide-for-small">{{ post.company }}</span>
+		</li>
+	{% endif %}
+{% endfor %}
 </ul>
 <br />
 <div class="well">
