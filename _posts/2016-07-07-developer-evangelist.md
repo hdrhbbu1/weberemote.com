@@ -1,0 +1,16 @@
+---
+layout: post
+published: false
+title: "Developer Evangelist"
+date: 2016-07-07T17:27:25.353Z
+company: "undefined"
+location: Anywhere
+type: Full-time
+apply_url: "https://renderedtext.workable.com/jobs/285909"
+---
+
+
+    Our mission is to make software delivery awesome. Lean companies such as 500px, General Assembly and CrunchBase use Semaphore to test and deploy their code. We have a mature hosted product and have recently launched Semaphore Enterprise, an on-premise solution.To help educate users and facilitate product adoption, we’re looking for a developer evangelist to join the Semaphore team. There are many rapidly evolving technologies and platforms that developers can use to continuously deliver their code. Adopting and using them effectively with Semaphore should always be easy, and that’s where you come in. Your job will be to enable developers to be successful with Semaphore however you see fit.If you enjoy exploring new technologies, writing awesome prototypes as much as creating great content to explain them and communicating with the developer community, then we think you’ll love this job.We’re a remote team and we move fast. We expect you to be a self-starter who's good at managing time and juggling tasks and developing metrics of success to guide your work. Your days will be split between working on new content, connecting with technical audiences, and collaborating across different teams (talking to people from product, support, marketing and sales).Since Semaphore users are developers, in order to be a successful developer evangelist it is important for us that you have past development experience.Responsibilities:Continuously research and be on the cutting edge of cloud platforms, containers, infrastructure tools and everything in between which defines how and where developers ship code.Engage the developer community by writing useful content (in-depth tutorials, blog posts, screencasts, etc.) explaining how to use different platforms or open source tools with Semaphore.Write example code and create starter projects to help developers get up and running quickly.Identify anything preventing people from using Semaphore effectively, and relay it to the product team.Travel to an occasional conference or meetup to speak, and generally connect with the developer community.Work closely with the marketing team to be their developer guide.Build partnerships with individuals, companies and organizations that serve the same communities as we do.Track and respond to comments and questions on various social media channels.Requirements:You have 3+ years of development experience with open source languages, stacks and frameworks.You’ve worked as a successful developer evangelist or advocate before, or been a developer on a product team.You have genuine interest in software development, particularly related to continuous delivery and DevOps.You get a thrill from seeing how your technical documentation, blog post or presentation has helped other people.You’re personable and a great communicator.You’re actively participating in the developer community through a blog, Twitter account or other public presence.
+
+    
+  
