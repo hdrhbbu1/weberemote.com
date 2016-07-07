@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Senior UI/JavaScript Frontend Engineer"
 date: 2016-07-07T19:50:06.928Z
 company: "Close.io"
