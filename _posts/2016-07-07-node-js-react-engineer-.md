@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Node.js/React Engineer "
 date: 2016-07-07T19:48:56.559Z
 company: "Auth0"
