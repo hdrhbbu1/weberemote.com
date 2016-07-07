@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Viral Product / MVP Launch Ninja Marketing Specialist"
 date: 2016-07-07T19:50:29.015Z
 company: "Gear Stream"
