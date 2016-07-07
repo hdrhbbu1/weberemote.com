@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Technical Content Creator"
 date: 2016-07-07T19:50:11.173Z
 company: "Compose"
