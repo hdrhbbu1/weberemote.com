@@ -1,0 +1,15 @@
+---
+layout: post 
+published: false 
+title: "Technical Support, Level 2 (Remote - US West Coast)" 
+date: 2016-07-07T16:57:48.437Z 
+company: "undefined" 
+location: Anywhere 
+type: Full-time 
+apply_url: "https://invision.workable.com/jobs/33317"---
+
+
+    InVision is the world’s leading design collaboration platform.We enable companies of all sizes to discover the power of design-driven product development. That’s why more than 2,000,000 designers, product managers, marketers and other stakeholders at so many of the world's most loved startups, agencies, & corporations use InVision every day, including Uber, Evernote, Twitter, Adobe, Salesforce and many more.We're looking for a customer support & community manager to engage with our user-base and guide their path to realizing how awesome our product is!REQUIREMENTSABOUT YOUREQUIREDYou are able to work Sunday-Thursday to help with weekend support coverage and are located in the Mountain or Pacific timezonesYou possess excellent written and verbal communication skills.You're a natural-born evangelist with infectious enthusiasm.You genuinely relish troubleshooting and problem-solving complex puzzles.Experience serving as quality assurance for escalated customer requests and bugs.You have prior knowledge of design practices (UI, UX, research, testing).You’ve demonstrated technical support experience, preferably in a SaaS B2B setting.Ability to think on one’s feet, learn a complex product inside and out, and discover creative methods to resolve customer issues.Demonstrable experience troubleshooting and documenting replication steps for complex technical issues, while collaborating with engineering to ensure resolution.Experience supporting and assisting with development of integrations leveraging API; e.g. REST, SOAP, etc.Familiarity with modern ticketing, customer engagement, and CMS solutions within customer service environments (Zendesk, Desk.com, Help Scout).BONUS POINTSExpert knowledge of the design tools: Adobe Photoshop, Adobe Illustrator, Sketch.Versed in agile development methodologies and its best practices.Previous InVision experience and familiarity strongly preferred.GitHub experience preferred.YOUR RESPONSIBILITIESDirectly respond to and engage qualified customer inquiries and requests.Compare, analyze, and escalate user requests to Product & Engineering teams.Directly engage and collaborate with Engineering teams to quickly resolve customer issues or reported bugs.Act as quality assurance for escalations and technical backbone and resource for Customer Support teams.Develop, author, and maintain internal and customer-facing technical documentation.Compile, prioritize, and report feature requests for product direction and implementation.Share industry best practices on web/mobile design tools with clients.BENEFITSHighly competitive salaryStock optionsPremium health coverage Macbook AirMembership at health club of your choiceUnlimited books from AmazonUnlimited Starbucks card
+
+    
+  
