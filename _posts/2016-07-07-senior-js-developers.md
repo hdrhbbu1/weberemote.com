@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Senior JS developers"
 date: 2016-07-07T19:52:39.470Z
 company: "Locomote"
