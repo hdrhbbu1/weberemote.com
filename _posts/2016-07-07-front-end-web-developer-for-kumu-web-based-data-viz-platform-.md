@@ -1,0 +1,12 @@
+---
+layout: post
+published: false
+title: "Front-end web developer for Kumu (web-based data viz platform)"
+date: 2016-07-07T19:50:29.033Z
+company: "Kumu"
+location: Anywhere
+type: Full-time
+apply_url: "mailto:%63%61%72%65%65%72%73@%6b%75%6d%75.%69%6f"
+---
+
+<div>Kumu helps people understand complex relationships, predominantly through network, systems, and stakeholder maps. We&#x2019;ve spent the past four years refining Kumu&#x2019;s visualization platform, and we&#x2019;re now ready to move on to our next phase: developing a suite of tools and products to simplify the process of creating maps (through surveys, custom forms, and integrations with other platforms) and make it easier to collaborate on maps remotely (through integrated discussions, branching/forking, and version control).</div><div class="paragraph_break"><br></div><div>We&#x2019;re currently working with some of the world&#x2019;s top organizations including The Omidyar Group, Gates Foundation, Hewlett Foundation, USAID, Stanford ChangeLabs, Democracy Fund, World Bank, Humanity United and more.</div><div class="paragraph_break"><br></div><ul><li>Full-time position (remote or join team on Oahu)</li></ul><ul><li>Salary $60-80k</li><li>Equity 1-2%</li><li>Small team with recurring subscription revenue over $100k / year</li><li>Flexible hours with a <a href="https://kumu.io/manifesto">fun mission-driven team</a></li></ul><ul><li>Stack: react, rails, webgl, webpack/babel, aws, git/github, slack, hangouts, IE11+</li></ul><ul><li>Bonus points for experience with: graphs/networks, couchdb, elasticsearch, redis, d3</li></ul><div class="paragraph_break"><br></div><div>On a day-to-day basis you&#x2019;ll primarily be working with Ryan (<a href="https://twitter.com/rymohr">@rymohr</a>) and will be involved throughout the entire development process: from the initial brainstorm where we flush out the basic architecture all the way to the final stages of testing and release. We like to move fast and ship often, and we try to break work into weekly deliverables to keep everyone&#x2019;s expectations and progress in check. We do a quick hangout at the beginning of each week to revisit everyone&#x2019;s immediate priorities.</div><div class="paragraph_break"><br></div><div>Please send an email to <a href="mailto:careers@kumu.io">careers@kumu.io</a> if you&#x2019;re interested or know somebody we can reach out to who might be. Thanks!</div><div class="paragraph_break"><br></div>
