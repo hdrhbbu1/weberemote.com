@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "SEO Content Writer"
 date: 2016-07-07T19:54:12.670Z
 company: "Jungle Scout"
