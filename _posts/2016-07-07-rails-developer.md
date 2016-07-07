@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Rails Developer"
 date: 2016-07-07T19:48:49.602Z
 company: "Eezy.com"
