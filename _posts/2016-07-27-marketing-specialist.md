@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Marketing Specialist"
 date: 2016-07-27T06:11:39.754Z
 company: "Zapier"
