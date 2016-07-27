@@ -3,7 +3,7 @@ layout: post
 published: true
 title: "UI Invision Clickable Prototype Designer"
 date: 2016-07-27T05:56:50.510Z
-company: "www.gearstream.com"
+company: "Gear Stream"
 location: Anywhere
 type: Full-time
 apply_url: "mailto:%62%72%61%64.%6d%75%72%70%68%79@%67%65%61%72%73%74%72%65%61%6d.%63%6f%6d"
