@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Ninja Writer for Business / Technology Case Studies"
 date: 2016-07-27T05:41:12.195Z
 company: "Gear Stream, Inc."
