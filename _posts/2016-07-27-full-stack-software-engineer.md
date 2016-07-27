@@ -1,0 +1,12 @@
+---
+layout: post
+published: true
+title: "Full Stack Software Engineer"
+date: 2016-07-27T06:16:20.908Z
+company: "SystemOne"
+location: Anywhere
+type: Full-time
+apply_url: "mailto:%73%74%65%66%61%6e@%73%79%73%74%65%6d%6f%6e%65.%69%64"
+---
+
+<div>As a Software Engineer at SystemOne, you will build the services that power our web and mobile apps as well as our public API. You will also develop the React/React mobile front-ends that utilize our APIs. You will be a key member of the team, making technical decisions that will shape the company&apos;s future. We&apos;re looking for people who love to code as well as work with other developers to build meaningful products.<br></div><div><em><br></em></div><div><em>Day-to-day responsibilities include:</em></div><ul><li>Building the next version of our API</li><li>Building intuitive, highly efficient and performant interfaces for the next version of our medical device application</li><li>Optimizing back-end services for performance and scale</li><li>Integrating with medical devices and software products around the world</li><li>Working alongside our Chief Product Engineer on core engineering challenges</li></ul><div><em><br></em></div><div><em>We are looking for people with:</em></div><ul><li>A product-first approach to building software. You care about the real world functionality of your programming.</li><li>5+ years of professional software development experience building, deploying, and maintaining apps at scale</li><li>Experience with Node and Express</li><li>Experience with SQL and/or MongoDB</li><li>Experience with modern javascript tools/frameworks like react, webpack, and babel</li><li>Experience with REST and HTTP/HTTPS protocols</li><li>Deep understanding of user-interface and user-experience concepts and design</li><li>Deep experience with JavaScript</li><li>A passion for working as part of a team</li><li>Devops skills are a plus</li></ul><div class="paragraph_break"><br></div><div><em>Tech:</em><br></div><div>Front-End<br></div><ul><li>Javascript ES6</li><li>React</li><li>Redux</li><li>Material UI</li></ul><div class="paragraph_break"><br></div><div>Back-End<br></div><ul><li>Node.js</li><li>Express</li><li>MySQL</li></ul><div class="paragraph_break"><br></div><div>DevOps<br></div><ul><li>AWS</li></ul><div class="paragraph_break"><br></div>
