@@ -1,0 +1,12 @@
+---
+layout: post
+published: false
+title: "Ninja Writer for Business / Technology Case Studies"
+date: 2016-07-27T05:41:12.195Z
+company: "Gear Stream, Inc."
+location: Anywhere
+type: Full-time
+apply_url: "mailto:%62%72%61%64.%6d%75%72%70%68%79@%67%65%61%72%73%74%72%65%61%6d.%63%6f%6d"
+---
+
+<div>This is a remote position, however, &#xA0;we prefer a native English speaking candidate who is native to North America or Western Europe</div><div class="paragraph_break"><br></div><div>This position is project / freelance based, NOT FULLTIME.</div><div><strong><br></strong></div><div><strong>The Project</strong></div><div>We have 5 customer case studies captured in raw form (recorded narration and power point slides). &#xA0;We need to transform each of these mini-case studies into a compelling&#xA0;customer case study suitable for marketing and new customer introductions.</div><div class="paragraph_break"><br></div><div><strong>The Candidate Requirements</strong></div><ul><li>You MUST be a writer with both skillful writing skills and marketing communications experience</li><li>You MUST have proven&#xA0;success writing provocative, compelling articles for a C-Level consumption</li><li>You MUST have proven success writing to both educate and persuade readers without it feeling like a &quot;pitch&quot;</li><li>You MUST have demonstrated skill in making a boring business imperative read like a riveting&#xA0;novel</li><li>You MUSt be digitally savvy and familiar with modern large Enterprise life, and a HUGE plus is awareness of the general Web/Mobile/Software landscape</li></ul><div class="paragraph_break"><br></div><div>Here is an example of the edge we hope you can emulate... we also need you to be able to dial-up and dial-down the tone so we can tune the final &quot;voice&quot; for our case studies.</div><div class="paragraph_break"><br></div><div><strong>Only Insurgents Survive: Preparing for the Robot Apocalypse</strong><br></div><div><a href="https://goo.gl/bfHskZ">https://goo.gl/bfHskZ</a></div><div class="paragraph_break"><br></div><div><strong>For consideration all Candidates Must:</strong><br></div><ul><li>Submit a CV</li><li>Submit at least 3 sample writings... showing a range of style and content coverage</li><li>Indicate how and what you charge for your services: &#xA0;Hourly? &#xA0;If so, general guidance. &#xA0;By the Size of Project? If so, what units and what unit cost, etc.</li></ul><div class="paragraph_break"><br></div>
