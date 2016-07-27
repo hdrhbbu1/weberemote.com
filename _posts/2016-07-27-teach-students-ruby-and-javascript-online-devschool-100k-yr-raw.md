@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Teach Students Ruby and JavaScript Online @ Devschool! $100k/yr Raw"
 date: 2016-07-27T05:39:03.731Z
 company: "Devschool"
