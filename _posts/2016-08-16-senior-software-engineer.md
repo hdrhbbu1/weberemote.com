@@ -1,0 +1,12 @@
+---
+layout: post
+published: true
+title: "Senior Software Engineer"
+date: 2016-08-16T05:17:31.184Z
+company: "FunnelEnvy"
+location: Anywhere
+type: Full-time
+apply_url: "mailto:%74%61%6c%65%6e%74@%66%75%6e%6e%65%6c%65%6e%76%79.%63%6f%6d"
+---
+
+<div>FunnelEnvy is a fast growing startup near San Francisco that focuses on delivering Return on Traffic for marketers through innovative technology solutions. Our platform helps B2B marketing and sales teams get deeper engagement and increase conversions from their highest value customers through insights, personalization and orchestration.</div><div class="paragraph_break"><br></div><div>We&#x2019;re looking to bring on a Senior Software Engineer who can create and maintain a vision for our application design and architecture that will allow us to quickly iterate and test out new ideas and build on ideas that are successful.</div><div class="paragraph_break"><br></div><div><strong>What We&#x2019;re Looking for</strong><br></div><ul><li>At least 6 Years of professional development experience</li><li>Experience working with large amounts of data in real time</li><li>Deep understanding of object oriented and functional design and development techniques</li><li>Must have experience mass scaling software to many concurrent users</li><li>Ability to write clean, quality code that lends itself to group work and collaboration.</li><li>Understanding of how to build quality software in an iterative and incremental manner</li><li>BS/MS in Computer Science or equivalent experience</li></ul><div><strong><br></strong></div><div><strong>Our Stack</strong><br></div><ul><li>Node.js</li><li>Angular</li><li>MongoDB</li><li>Hadoop (Presto/Hive)</li><li>Redis</li><li>Heroku and AWS</li></ul><div><strong><br></strong></div><div><strong>Why work with Us?</strong></div><div>At FunnelEnvy we&#x2019;ve helped some of the largest companies in the world get more value from their websites through optimization and personalization, including HP, VMware, Disney, Zillow and TripAdvisor.</div><div class="paragraph_break"><br></div><div>You&#x2019;ll get to work on big data marketing problems in a small team startup environment that moves fast and likes to have fun.</div>
